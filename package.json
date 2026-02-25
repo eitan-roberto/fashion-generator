@@ -1,0 +1,12 @@
+{
+  "name": "fashion-generator",
+  "version": "1.0.0",
+  "description": "Generate fashion images combining outfits, locations, houses, and models",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
